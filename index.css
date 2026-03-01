@@ -48,21 +48,20 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 294px;
+    min-height: 724px;
   }
 
   .u-section-1 .u-image-1 {
     height: 340px;
-    margin-top: -46px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 340px;
+    margin-top: 192px;
+    margin-right: -7px;
   }
 
   .u-section-1 .u-image-2 {
     width: 151px;
     height: 65px;
-    margin-top: -65px;
-    margin-bottom: 0;
+    margin-top: 120px;
+    margin-bottom: 7px;
   }
 }
