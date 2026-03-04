@@ -214,28 +214,28 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2240px;
+    min-height: 2061px;
   }
 
   .u-section-1 .u-image-1 {
     width: 299px;
     height: 433px;
-    margin-top: 1772px;
+    margin-top: 1569px;
     margin-right: 0;
   }
 
   .u-section-1 .u-image-2 {
     width: 459px;
     height: 403px;
-    margin-top: -1601px;
+    margin-top: -1513px;
     margin-right: auto;
-    margin-left: 28px;
+    margin-left: 34px;
   }
 
   .u-section-1 .u-image-3 {
     width: 438px;
     height: 407px;
-    margin-top: -991px;
+    margin-top: -876px;
     margin-right: auto;
   }
 
@@ -273,14 +273,14 @@
   }
 
   .u-section-1 .u-rotation-parent-2 {
-    margin-top: -519px;
-    margin-left: -92px;
+    margin-top: -549px;
+    margin-left: -50px;
   }
 
   .u-section-1 .u-rotation-parent-3 {
     width: 503px;
     height: 503px;
-    margin-top: 116px;
+    margin-top: 146px;
     margin-right: -125px;
   }
 
@@ -318,8 +318,8 @@
   .u-section-1 .u-rotation-parent-5 {
     width: 248px;
     height: 338px;
-    margin-top: 306px;
-    margin-right: 182px;
+    margin-top: 223px;
+    margin-right: 175px;
   }
 
   .u-section-1 .u-image-13 {
@@ -330,6 +330,7 @@
   .u-section-1 .u-rotation-parent-6 {
     width: 437px;
     height: 437px;
+    margin-top: -196px;
     margin-left: -50px;
   }
 
@@ -341,8 +342,8 @@
   .u-section-1 .u-image-15 {
     width: 163px;
     height: 184px;
-    margin-top: -193px;
-    margin-right: 68px;
+    margin-top: -293px;
+    margin-right: 61px;
   }
 }
 
@@ -432,16 +433,16 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 139px;
-    height: 201px;
-    margin-top: 938px;
-    margin-right: 0;
+    width: 183px;
+    height: 265px;
+    margin-top: 906px;
+    margin-right: -22px;
   }
 
   .u-section-1 .u-image-2 {
     width: 297px;
     height: 252px;
-    margin-top: -860px;
+    margin-top: -892px;
     margin-left: -50px;
   }
 
@@ -564,10 +565,11 @@
   }
 
   .u-section-1 .u-image-15 {
-    width: 67px;
-    height: 76px;
-    margin-top: -137px;
-    margin-right: 36px;
+    width: 93px;
+    height: 105px;
+    margin-top: -148px;
+    margin-right: 23px;
+    margin-bottom: 59px;
   }
 }
 
@@ -665,6 +667,10 @@
     margin-top: 78px;
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 20px;
   }
 }
 
